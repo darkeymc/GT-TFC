@@ -1,0 +1,20 @@
+<IfModInstalled name='appliedenergistics2'>
+
+<StandardGen name='AESkyStone' block='appliedenergistics2:tile.BlockSkyStone' inherits='PresetStandardGen'> 
+    <Setting name='Size' avg='16'/> 
+    <Setting name='Frequency' avg='0.1'/>
+    <Setting name='Height' avg='144'/> 
+</StandardGen>
+
+<!--
+<Cloud name='AESkyStone' block='appliedenergistics2:tile.BlockSkyStone' inherits='PresetStrategicCloud'>
+<Setting name='DistributionFrequency' avg='0.006'/>
+<Setting name='CloudRadius' avg='5' range='2'/>
+<Setting name='CloudThickness' avg='5' range='2'/>
+<Setting name='CloudHeight' avg='145' range='10'/>
+<Setting name='OreVolumeNoiseCutoff' avg='0'/>
+<Setting name='OreDensity' avg='0.03'/>
+</Cloud> 
+-->
+
+</IfModInstalled>

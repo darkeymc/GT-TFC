@@ -1,0 +1,161 @@
+<IfModInstalled name='gregtech'>
+
+<Cloud name='GtApatite' inherits='PresetStrategicCloud'>
+<OreBlock block='gregtech:gt.blockores' weight='0.4' nbt='{m:530, n:1, id:"GT_TileEntity_Ores"}'/>
+<OreBlock block='gregtech:gt.blockores' weight='0.3' nbt='{m:530, n:1, id:"GT_TileEntity_Ores"}'/>
+<OreBlock block='gregtech:gt.blockores' weight='0.2' nbt='{m:534, n:1, id:"GT_TileEntity_Ores"}'/>
+<OreBlock block='gregtech:gt.blockores' weight='0.1' nbt='{m:833, n:1, id:"GT_TileEntity_Ores"}'/>
+<Setting name='DistributionFrequency' avg='0.006'/>
+<Setting name='CloudRadius' avg='10' range='5'/>
+<Setting name='CloudThickness' avg='10' range='5'/>
+<Setting name='CloudHeight' avg='50' range='10'/>
+<Setting name='OreVolumeNoiseCutoff' avg='0'/>
+<Setting name='OreDensity' avg='0.03'/>
+</Cloud>
+
+<Cloud name='GtBauxite' inherits='PresetStrategicCloud'>
+<OreBlock block='gregtech:gt.blockores' weight='0.4' nbt='{m:822, n:1, id:"GT_TileEntity_Ores"}'/>
+<OreBlock block='gregtech:gt.blockores' weight='0.3' nbt='{m:822, n:1, id:"GT_TileEntity_Ores"}'/>
+<OreBlock block='gregtech:gt.blockores' weight='0.2' nbt='{m:19, n:1, id:"GT_TileEntity_Ores"}'/>
+<OreBlock block='gregtech:gt.blockores' weight='0.1' nbt='{m:918, n:1, id:"GT_TileEntity_Ores"}'/>
+<Setting name='DistributionFrequency' avg='0.008'/>
+<Setting name='CloudRadius' avg='20' range='5'/>
+<Setting name='CloudThickness' avg='20' range='5'/>
+<Setting name='CloudHeight' avg='70' range='20'/>
+<Setting name='OreVolumeNoiseCutoff' avg='0'/>
+<Setting name='OreDensity' avg='0.04'/>
+</Cloud>
+
+<Cloud name='GtManganese' inherits='PresetStrategicCloud'>
+<OreBlock block='gregtech:gt.blockores' weight='0.4' nbt='{m:831, n:1, id:"GT_TileEntity_Ores"}'/>
+<OreBlock block='gregtech:gt.blockores' weight='0.3' nbt='{m:838, n:1, id:"GT_TileEntity_Ores"}'/>
+<OreBlock block='gregtech:gt.blockores' weight='0.2' nbt='{m:943, n:1, id:"GT_TileEntity_Ores"}'/>
+<OreBlock block='gregtech:gt.blockores' weight='0.1' nbt='{m:921, n:1, id:"GT_TileEntity_Ores"}'/>
+<Setting name='DistributionFrequency' avg='0.002'/>
+<Setting name='CloudRadius' avg='10' range='5'/>
+<Setting name='CloudThickness' avg='10' range='5'/>
+<Setting name='CloudHeight' avg='25' range='5'/>
+<Setting name='OreVolumeNoiseCutoff' avg='0'/>
+<Setting name='OreDensity' avg='0.03'/>
+</Cloud>
+
+<Cloud name='GtMolybdenum' inherits='PresetStrategicCloud'>
+<OreBlock block='gregtech:gt.blockores' weight='0.4' nbt='{m:882, n:1, id:"GT_TileEntity_Ores"}'/>
+<OreBlock block='gregtech:gt.blockores' weight='0.3' nbt='{m:942, n:1, id:"GT_TileEntity_Ores"}'/>
+<OreBlock block='gregtech:gt.blockores' weight='0.2' nbt='{m:48, n:1, id:"GT_TileEntity_Ores"}'/>
+<OreBlock block='gregtech:gt.blockores' weight='0.1' nbt='{m:883, n:1, id:"GT_TileEntity_Ores"}'/>
+<Setting name='DistributionFrequency' avg='0.0005'/>
+<Setting name='CloudRadius' avg='10' range='5'/>
+<Setting name='CloudThickness' avg='10' range='5'/>
+<Setting name='CloudHeight' avg='35' range='15'/>
+<Setting name='OreVolumeNoiseCutoff' avg='0'/>
+<Setting name='OreDensity' avg='0.03'/>
+</Cloud>
+
+<Cloud name='GtMonazite' inherits='PresetStrategicCloud'>
+<OreBlock block='gregtech:gt.blockores' weight='0.4' nbt='{m:905, n:1, id:"GT_TileEntity_Ores"}'/>
+<OreBlock block='gregtech:gt.blockores' weight='0.3' nbt='{m:905, n:1, id:"GT_TileEntity_Ores"}'/>
+<OreBlock block='gregtech:gt.blockores' weight='0.2' nbt='{m:520, n:1, id:"GT_TileEntity_Ores"}'/>
+<OreBlock block='gregtech:gt.blockores' weight='0.1' nbt='{m:67, n:1, id:"GT_TileEntity_Ores"}'/>
+<Setting name='DistributionFrequency' avg='0.003'/>
+<Setting name='CloudRadius' avg='10' range='5'/>
+<Setting name='CloudThickness' avg='10' range='5'/>
+<Setting name='CloudHeight' avg='30' range='10'/>
+<Setting name='OreVolumeNoiseCutoff' avg='0'/>
+<Setting name='OreDensity' avg='0.03'/>
+</Cloud>
+
+<Cloud name='GtNaquadah' inherits='PresetStrategicCloud'>
+<OreBlock block='gregtech:gt.blockores' weight='0.4' nbt='{m:324, n:1, id:"GT_TileEntity_Ores"}'/>
+<OreBlock block='gregtech:gt.blockores' weight='0.3' nbt='{m:324, n:1, id:"GT_TileEntity_Ores"}'/>
+<OreBlock block='gregtech:gt.blockores' weight='0.2' nbt='{m:324, n:1, id:"GT_TileEntity_Ores"}'/>
+<OreBlock block='gregtech:gt.blockores' weight='0.1' nbt='{m:326, n:1, id:"GT_TileEntity_Ores"}'/>
+<Setting name='DistributionFrequency' avg='0.001'/>
+<Setting name='CloudRadius' avg='25' range='5'/>
+<Setting name='CloudThickness' avg='25' range='5'/>
+<Setting name='CloudHeight' avg='35' range='25'/>
+<Setting name='OreVolumeNoiseCutoff' avg='0'/>
+<Setting name='OreDensity' avg='0.05'/>
+</Cloud>
+
+<Cloud name='GtPlutonium' inherits='PresetStrategicCloud'>
+<OreBlock block='gregtech:gt.blockores' weight='0.4' nbt='{m:922, n:1, id:"GT_TileEntity_Ores"}'/>
+<OreBlock block='gregtech:gt.blockores' weight='0.3' nbt='{m:922, n:1, id:"GT_TileEntity_Ores"}'/>
+<OreBlock block='gregtech:gt.blockores' weight='0.2' nbt='{m:100, n:1, id:"GT_TileEntity_Ores"}'/>
+<OreBlock block='gregtech:gt.blockores' weight='0.1' nbt='{m:98, n:1, id:"GT_TileEntity_Ores"}'/>
+<Setting name='DistributionFrequency' avg='0.001'/>
+<Setting name='CloudRadius' avg='15' range='5'/>
+<Setting name='CloudThickness' avg='15' range='5'/>
+<Setting name='CloudHeight' avg='25' range='5'/>
+<Setting name='OreVolumeNoiseCutoff' avg='0'/>
+<Setting name='OreDensity' avg='0.03'/>
+</Cloud>
+
+<Cloud name='GtQuartz' inherits='PresetStrategicCloud'>
+<OreBlock block='gregtech:gt.blockores' weight='0.4' nbt='{m:523, n:1, id:"GT_TileEntity_Ores"}'/>
+<OreBlock block='gregtech:gt.blockores' weight='0.3' nbt='{m:904, n:1, id:"GT_TileEntity_Ores"}'/>
+<OreBlock block='gregtech:gt.blockores' weight='0.2' nbt='{m:516, n:1, id:"GT_TileEntity_Ores"}'/>
+<OreBlock block='gregtech:gt.blockores' weight='0.1' nbt='{m:516, n:1, id:"GT_TileEntity_Ores"}'/>
+<Setting name='DistributionFrequency' avg='0.006'/>
+<Setting name='CloudRadius' avg='15' range='5'/>
+<Setting name='CloudThickness' avg='15' range='5'/>
+<Setting name='CloudHeight' avg='60' range='20'/>
+<Setting name='OreVolumeNoiseCutoff' avg='0'/>
+<Setting name='OreDensity' avg='0.03'/>
+</Cloud>
+
+<!--
+<Cloud name='GtRedstone' inherits='PresetStrategicCloud'>
+<OreBlock block='gregtech:gt.blockores' weight='0.4' nbt='{m:810, n:1, id:"GT_TileEntity_Ores"}'/>
+<OreBlock block='gregtech:gt.blockores' weight='0.3' nbt='{m:810, n:1, id:"GT_TileEntity_Ores"}'/>
+<OreBlock block='gregtech:gt.blockores' weight='0.2' nbt='{m:502, n:1, id:"GT_TileEntity_Ores"}'/>
+<OreBlock block='gregtech:gt.blockores' weight='0.1' nbt='{m:826, n:1, id:"GT_TileEntity_Ores"}'/>
+<Setting name='DistributionFrequency' avg='0.006'/>
+<Setting name='CloudRadius' avg='25' range='5'/>
+<Setting name='CloudThickness' avg='25' range='5'/>
+<Setting name='CloudHeight' avg='25' range='15'/>
+<Setting name='OreVolumeNoiseCutoff' avg='0'/>
+<Setting name='OreDensity' avg='0.03'/>
+</Cloud>
+-->
+
+<Cloud name='GtSoapstone' inherits='PresetStrategicCloud'>
+<OreBlock block='gregtech:gt.blockores' weight='0.4' nbt='{m:877, n:1, id:"GT_TileEntity_Ores"}'/>
+<OreBlock block='gregtech:gt.blockores' weight='0.3' nbt='{m:902, n:1, id:"GT_TileEntity_Ores"}'/>
+<OreBlock block='gregtech:gt.blockores' weight='0.2' nbt='{m:933, n:1, id:"GT_TileEntity_Ores"}'/>
+<OreBlock block='gregtech:gt.blockores' weight='0.1' nbt='{m:909, n:1, id:"GT_TileEntity_Ores"}'/>
+<Setting name='DistributionFrequency' avg='0.004'/>
+<Setting name='CloudRadius' avg='15' range='5'/>
+<Setting name='CloudThickness' avg='15' range='5'/>
+<Setting name='CloudHeight' avg='25' range='15'/>
+<Setting name='OreVolumeNoiseCutoff' avg='0'/>
+<Setting name='OreDensity' avg='0.03'/>
+</Cloud>
+
+<Cloud name='GtSoapstone' inherits='PresetStrategicCloud'>
+<OreBlock block='gregtech:gt.blockores' weight='0.4' nbt='{m:910, n:1, id:"GT_TileEntity_Ores"}'/>
+<OreBlock block='gregtech:gt.blockores' weight='0.3' nbt='{m:910, n:1, id:"GT_TileEntity_Ores"}'/>
+<OreBlock block='gregtech:gt.blockores' weight='0.2' nbt='{m:841, n:1, id:"GT_TileEntity_Ores"}'/>
+<OreBlock block='gregtech:gt.blockores' weight='0.1' nbt='{m:6, n:1, id:"GT_TileEntity_Ores"}'/>
+<Setting name='DistributionFrequency' avg='0.001'/>
+<Setting name='CloudRadius' avg='15' range='5'/>
+<Setting name='CloudThickness' avg='15' range='5'/>
+<Setting name='CloudHeight' avg='35' range='15'/>
+<Setting name='OreVolumeNoiseCutoff' avg='0'/>
+<Setting name='OreDensity' avg='0.03'/>
+</Cloud>
+
+<Cloud name='GtPitchblende' inherits='PresetStrategicCloud'>
+<OreBlock block='gregtech:gt.blockores' weight='0.4' nbt='{m:873, n:1, id:"GT_TileEntity_Ores"}'/>
+<OreBlock block='gregtech:gt.blockores' weight='0.3' nbt='{m:873, n:1, id:"GT_TileEntity_Ores"}'/>
+<OreBlock block='gregtech:gt.blockores' weight='0.2' nbt='{m:98, n:1, id:"GT_TileEntity_Ores"}'/>
+<OreBlock block='gregtech:gt.blockores' weight='0.1' nbt='{m:922, n:1, id:"GT_TileEntity_Ores"}'/>
+<Setting name='DistributionFrequency' avg='0.004'/>
+<Setting name='CloudRadius' avg='15' range='5'/>
+<Setting name='CloudThickness' avg='15' range='5'/>
+<Setting name='CloudHeight' avg='25' range='15'/>
+<Setting name='OreVolumeNoiseCutoff' avg='0'/>
+<Setting name='OreDensity' avg='0.03'/>
+</Cloud>
+
+</IfModInstalled>
