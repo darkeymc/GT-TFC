@@ -20,6 +20,7 @@ GregTech - TerraFirmaCraft hardcore gaming focused modpack for Minecraft 1.7.x
 * NEI Addons by bdew - http://bdew.net/neiaddons/
 * NEIPlugins by Tonius; orig. by mistaqur - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294687-toniuss-mods-simply-jetpacks-fluxedfeederunit-nei
 * Not Enough Items, by Chickenbones - http://chickenbones.net
+* TerraFirmaCraft, by Bioxx - http://terrafirmacraft.com
 * Waila, by ProfMobius - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289765-waila-1-5-2
 * Waila Harvestability, by squeek502 - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1295067-waila-harvestability-how-can-i-harvest-what-im
 
