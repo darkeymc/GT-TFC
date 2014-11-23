@@ -1,3 +1,28 @@
+<!--*************************  CustomOreGen Configuration **********************>
+*
+*   CustomOreGen allows you to customize the generation of Ore within
+*   your worlds. This file contains a list of "distributions", which
+*   place a specific block according to a specific
+*   algorithm.  You can have as many distributions as you want, including
+*   multiple distributions for the same block type.
+*   
+*   There are four basic algorithms available:
+*   "StandardGen", "Susbstitute", "Veins", and "Cloud".
+*
+*   This file is written in XML.
+*   Many names and values are ***CASE SENSISTIVE***.  
+*
+*   For details on how to edit this file, please see the online documentation:
+*
+*   Documentation for original features by JRoush:
+*       http://customoregen.shoutwiki.com/wiki/Main_Page
+*
+*   Documentation for features added by current maintainer:
+*       https://github.com/lawremi/CustomOreGen/wiki/Documentation
+*
+* Edited by Dark Legacy
+*
+******************************************************************************-->
 <IfModInstalled name='gregtech'>
 
 <Cloud name='GtApatite' inherits='PresetStrategicCloud'>
